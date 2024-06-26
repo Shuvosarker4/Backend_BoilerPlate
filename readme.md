@@ -4,12 +4,12 @@
 
 ### Guidelines for use
 
-- Visit [this link](https://github.com/Shuvosarker4/Backend_Boiler_Plate.git) to download the code.
+- Visit [this link](https://github.com/Shuvosarker4/Backend_BoilerPlate.git) to download the code.
 
 - Alternatively, you can clone the project using the following command:
 
 ```javascript
-git clone https://github.com/Shuvosarker4/Backend_Boiler_Plate.git
+git clone https://github.com/Shuvosarker4/Backend_BoilerPlate.git
 ```
 
 - After downloading or cloning the project, open it in VS Code. Open the terminal and run the following command:
